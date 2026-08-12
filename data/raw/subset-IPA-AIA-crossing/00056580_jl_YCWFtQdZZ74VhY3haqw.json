@@ -1,0 +1,49 @@
+{
+  "width": 3000, 
+  "objects": [
+    {
+      "properties": {
+        "ambiguous": false, 
+        "dummy": false, 
+        "direction-or-information": false, 
+        "barrier": false, 
+        "occluded": false, 
+        "out-of-frame": true, 
+        "exterior": false, 
+        "included": false, 
+        "highway": false
+      }, 
+      "bbox": {
+        "xmin": 71.77734375, 
+        "ymin": 607.5439453125, 
+        "ymax": 876.708984375, 
+        "xmax": 281.982421875
+      }, 
+      "key": "6lg519ab1jhk48axh2cz5r", 
+      "label": "information--pedestrians-crossing--g1"
+    }, 
+    {
+      "properties": {
+        "ambiguous": true, 
+        "dummy": false, 
+        "direction-or-information": false, 
+        "barrier": false, 
+        "occluded": false, 
+        "out-of-frame": false, 
+        "exterior": false, 
+        "included": false, 
+        "highway": false
+      }, 
+      "bbox": {
+        "xmin": 1190.185546875, 
+        "ymin": 960.205078125, 
+        "ymax": 986.02294921875, 
+        "xmax": 1212.158203125
+      }, 
+      "key": "iqj980cmxmqjbh04xhyrjj", 
+      "label": "other-sign"
+    }
+  ], 
+  "ispano": false, 
+  "height": 2250
+}

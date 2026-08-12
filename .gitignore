@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Outputs
+results/*
+!results/.gitkeep
+
+# Paper: publish only the compiled PDF (LaTeX sources and figures stay local)
+docs/paper/*
+!docs/paper/report.pdf
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Uncomment to also keep the dataset out of GitHub (much lighter repository):
+# data/raw/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

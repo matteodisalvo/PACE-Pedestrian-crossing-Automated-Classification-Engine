@@ -1,0 +1,91 @@
+{
+  "width": 2560, 
+  "objects": [
+    {
+      "properties": {
+        "ambiguous": false, 
+        "dummy": false, 
+        "direction-or-information": false, 
+        "barrier": false, 
+        "occluded": true, 
+        "out-of-frame": false, 
+        "exterior": false, 
+        "included": false, 
+        "highway": false
+      }, 
+      "bbox": {
+        "xmin": 2300.0, 
+        "ymin": 409.21875, 
+        "ymax": 588.28125, 
+        "xmax": 2500.0
+      }, 
+      "key": "skmecdi8kmb9fw9fs0g4rk", 
+      "label": "information--pedestrians-crossing--g1"
+    }, 
+    {
+      "properties": {
+        "ambiguous": false, 
+        "dummy": false, 
+        "direction-or-information": true, 
+        "barrier": false, 
+        "occluded": false, 
+        "out-of-frame": false, 
+        "exterior": false, 
+        "included": false, 
+        "highway": false
+      }, 
+      "bbox": {
+        "xmin": 1050.0, 
+        "ymin": 805.3125, 
+        "ymax": 827.34375, 
+        "xmax": 1100.0
+      }, 
+      "key": "s09umdbw2nu84qbueri31q", 
+      "label": "other-sign"
+    }, 
+    {
+      "properties": {
+        "ambiguous": false, 
+        "dummy": false, 
+        "direction-or-information": false, 
+        "barrier": false, 
+        "occluded": false, 
+        "out-of-frame": true, 
+        "exterior": false, 
+        "included": false, 
+        "highway": false
+      }, 
+      "bbox": {
+        "xmin": 2383.75, 
+        "ymin": 85.3125, 
+        "ymax": 314.53125, 
+        "xmax": 2558.75
+      }, 
+      "key": "iuvuekmvvrx75v3fk8fqcy", 
+      "label": "other-sign"
+    }, 
+    {
+      "properties": {
+        "ambiguous": false, 
+        "dummy": false, 
+        "direction-or-information": false, 
+        "barrier": false, 
+        "occluded": false, 
+        "out-of-frame": true, 
+        "exterior": false, 
+        "included": false, 
+        "highway": false
+      }, 
+      "bbox": {
+        "xmin": 2404.375, 
+        "ymin": 289.6875, 
+        "ymax": 504.375, 
+        "xmax": 2559.375
+      }, 
+      "key": "zbkhhm8ycvva4xbsuqv2o2", 
+      "label": "regulatory--give-way-to-oncoming-traffic--g1"
+    }
+  ], 
+  "ispano": false, 
+  "height": 1920
+}

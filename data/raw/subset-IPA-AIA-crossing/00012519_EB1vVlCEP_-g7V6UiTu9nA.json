@@ -1,0 +1,28 @@
+{
+  "width": 4032, 
+  "objects": [
+    {
+      "properties": {
+        "ambiguous": false, 
+        "dummy": false, 
+        "direction-or-information": false, 
+        "barrier": false, 
+        "occluded": false, 
+        "out-of-frame": false, 
+        "exterior": false, 
+        "included": false, 
+        "highway": false
+      }, 
+      "bbox": {
+        "xmin": 299.25, 
+        "ymin": 1616.8359375, 
+        "ymax": 1745.296875, 
+        "xmax": 396.703125
+      }, 
+      "key": "almpcn58a02i3o3hu5qkaa", 
+      "label": "information--pedestrians-crossing--g1"
+    }
+  ], 
+  "ispano": false, 
+  "height": 3024
+}

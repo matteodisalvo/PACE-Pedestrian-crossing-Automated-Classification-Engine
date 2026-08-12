@@ -1,0 +1,91 @@
+{
+  "width": 3264, 
+  "objects": [
+    {
+      "properties": {
+        "ambiguous": false, 
+        "dummy": false, 
+        "direction-or-information": false, 
+        "barrier": false, 
+        "occluded": false, 
+        "out-of-frame": false, 
+        "exterior": false, 
+        "included": false, 
+        "highway": false
+      }, 
+      "bbox": {
+        "xmin": 1749.140625, 
+        "ymin": 597.05859375, 
+        "ymax": 750.8056640625, 
+        "xmax": 1906.125
+      }, 
+      "key": "unqinm45j0ccu13gsdaert", 
+      "label": "information--pedestrians-crossing--g1"
+    }, 
+    {
+      "properties": {
+        "ambiguous": false, 
+        "dummy": false, 
+        "direction-or-information": false, 
+        "barrier": false, 
+        "occluded": true, 
+        "out-of-frame": false, 
+        "exterior": false, 
+        "included": false, 
+        "highway": false
+      }, 
+      "bbox": {
+        "xmin": 1613.671875, 
+        "ymin": 848.5224609375, 
+        "ymax": 897.8291015625, 
+        "xmax": 1657.5
+      }, 
+      "key": "o6op825a685obvddq4nzbm", 
+      "label": "information--parking--g1"
+    }, 
+    {
+      "properties": {
+        "ambiguous": false, 
+        "dummy": false, 
+        "direction-or-information": false, 
+        "barrier": false, 
+        "occluded": true, 
+        "out-of-frame": false, 
+        "exterior": false, 
+        "included": false, 
+        "highway": false
+      }, 
+      "bbox": {
+        "xmin": 1615.265625, 
+        "ymin": 903.65625, 
+        "ymax": 926.5166015625, 
+        "xmax": 1655.90625
+      }, 
+      "key": "2oj5v0wxpm5ypfbxdaodzq", 
+      "label": "other-sign"
+    }, 
+    {
+      "properties": {
+        "ambiguous": true, 
+        "dummy": false, 
+        "direction-or-information": false, 
+        "barrier": false, 
+        "occluded": true, 
+        "out-of-frame": false, 
+        "exterior": false, 
+        "included": false, 
+        "highway": false
+      }, 
+      "bbox": {
+        "xmin": 949.875, 
+        "ymin": 928.3095703125, 
+        "ymax": 951.6181640625, 
+        "xmax": 969.0
+      }, 
+      "key": "i65t4tuubq05ohqj29ppvo", 
+      "label": "other-sign"
+    }
+  ], 
+  "ispano": false, 
+  "height": 1836
+}
