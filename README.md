@@ -2,7 +2,7 @@
 
 ![Detection example](docs/banner.png)
 
-👥 **Team** : Gianmaria D'Agostino, Matteo Di Salvo, Andrea Musumeci, Simone Polselli
+👥 **Team** : Matteo Di Salvo, Gianmaria D'Agostino, Andrea Musumeci, Simone Polselli
 
 🎓 **Project supervisor**: prof. Alessandro Bria
 
