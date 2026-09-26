@@ -1,4 +1,4 @@
-# 🚸 PACE — Pedestrian-crossing Automated Classification Engine
+# Pedestrian-crossing Automated Classification Engine
 
 ![Detection example](docs/banner.png)
 
