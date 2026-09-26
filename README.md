@@ -1,6 +1,15 @@
-<h1 align="center">
-  Pedestrian-crossing Automated Classification Engine
-</h1>
+<h1 align="center">PACE — From Pixels to Signs</h1>
+
+<p align="center">
+  <em>Pedestrian Crossing Sign Detection with Classical Computer Vision</em>
+</p><p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python 3.10+"></a>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-4.8%2B-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV 4.8+"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-2E7D32?style=flat-square" alt="License: MIT"></a>
+  <a href="docs/paper/report.pdf"><img src="https://img.shields.io/badge/Report-PDF-B31B1B?style=flat-square" alt="Project report (PDF)"></a>
+</p>
+
+
 
 ![Detection example](docs/banner.png)
 
