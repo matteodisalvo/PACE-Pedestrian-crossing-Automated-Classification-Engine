@@ -1,5 +1,6 @@
-# Pedestrian-crossing Automated Classification Engine
-
+<h1 align="center">
+  Pedestrian-crossing Automated Classification Engine
+</h1>
 ![Detection example](docs/banner.png)
 
 👥 **Team** : Matteo Di Salvo, Gianmaria D'Agostino, Andrea Musumeci, Simone Polselli
