@@ -1,4 +1,4 @@
-<h1 align="center">PACE — From Pixels to Signs</h1>
+<h1 align="center">From Pixels to Signs</h1>
 
 <p align="center">
   <em>Pedestrian Crossing Sign Detection with Classical Computer Vision</em>
